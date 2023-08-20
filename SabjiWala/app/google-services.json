@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "879054233486",
+    "firebase_url": "https://study-9d850-default-rtdb.firebaseio.com",
+    "project_id": "study-9d850",
+    "storage_bucket": "study-9d850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879054233486:android:67b15f19a6d48613114edf",
+        "android_client_info": {
+          "package_name": "com.ab.sabjiwala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879054233486-m8v00jcp6vv07r24gkbtigdn42253jtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDtNLbuLXod81inan_prGo3ffUSiWTb8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879054233486-m8v00jcp6vv07r24gkbtigdn42253jtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
